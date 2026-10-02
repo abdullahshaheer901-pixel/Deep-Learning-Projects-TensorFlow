@@ -237,7 +237,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **Abdullah Shaheer**
-Data Analytics Student | Deep Learning & Computer Vision Enthusiast
+Data Scientist | Data Analyst | Machine Learning, Deep Learning (CNN, RNN, LSTM), Computer Vision & GenAI | Building AI Agents with LangChain & RAG | @ Deffel Software Solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-shaheer260)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/abdullahshaheer260)
