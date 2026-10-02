@@ -72,7 +72,7 @@ It is intended both as a learning resource and as a portfolio of core deep learn
 
 | Technology | Purpose |
 |------------|---------|
-| Python 3.8+ | Core language |
+| Python 3.9–3.11 | Core language |
 | TensorFlow 2.15+ | Deep learning framework |
 | Keras | High-level neural network API |
 | NumPy | Numerical computation |
