@@ -251,7 +251,6 @@ Data Analytics Student | Deep Learning & Computer Vision Enthusiast
 - [TensorFlow](https://www.tensorflow.org/): deep learning framework
 - [Keras](https://keras.io/): high-level neural network API
 - [scikit-learn](https://scikit-learn.org/): datasets and preprocessing
-- Digi Skills Program: learning platform
 
 ---
 
